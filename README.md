@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of ralkage/flarum-ext-search.** Not for installation: use [Packagist](https://packagist.org/packages/ralkage/flarum-ext-search) or the [upstream repository](https://github.com/Ralkage/flarum-ext-search).
 
-**0** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/ralkage-flarum-ext-search/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.8`
+**3** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/ralkage-flarum-ext-search/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-06-15 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-search/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-06-15 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-search/tree/archive/v1.0.1) |
+| `1.0.2` | 2026-06-15 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-search/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/ralkage-flarum-ext-search.json](https://github.com/flarchive/archive-index/blob/main/packages/ralkage-flarum-ext-search.json)
 
